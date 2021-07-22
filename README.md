@@ -6,17 +6,17 @@
 
 
 <a href="https://github.com/ggsdc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggsdc&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggsdc&theme=vue&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/ggsdc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggsdc&show_icons=true&theme=light&line_height=27&count_private=yes" alt="ggsdc's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggsdc&show_icons=true&theme=vue&line_height=27&count_private=yes" alt="ggsdc's github stats"/>
 </a>
 
 <a href="https://github.com/baobabsoluciones/corn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baobabsoluciones&repo=corn&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baobabsoluciones&repo=corn&theme=vue" />
 
 </a>
 <a href="https://github.com/ggsdc/tsp-solvers">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggsdc&repo=tsp-solvers&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggsdc&repo=tsp-solvers&theme=vue" />
 </a>
