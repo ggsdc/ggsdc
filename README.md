@@ -1,3 +1,22 @@
 ### Hola, I'm Guillermo González-Santander 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ggsdc&label=Views&color=blue&style=plastic" alt="ggsdc" /> </p>
+- 🔭 I’m currently working on [baobab soluciones](https://baobabsoluciones.es/).
+- 🌱 I’m currently learning more Artificial Intelligence and Reinforcement Learning.
+- 👯 I’m looking to collaborate on open source and open knowledge projects.
+
+
+<a href="https://github.com/ggsdc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggsdc&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/ggsdc">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+<a href="https://github.com/baobabsoluciones/corn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baobabsoluciones&repo=corn&theme=light" />
+
+</a>
+<a href="https://github.com/ggsdc/tsp-solvers">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggsdc&repo=tsp-solvers&theme=light" />
+</a>
