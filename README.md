@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/ggsdc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggsdc&show_icons=true&theme=light&line_height=27" alt="ggsdc's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggsdc&show_icons=true&theme=light&line_height=27&count_private=yes" alt="ggsdc's github stats"/>
 </a>
 
 <a href="https://github.com/baobabsoluciones/corn">
