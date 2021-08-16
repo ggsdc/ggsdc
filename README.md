@@ -6,7 +6,7 @@
 
 
 <a href="https://github.com/ggsdc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggsdc&theme=vue&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggsdc&theme=vue&hide_langs_below=1&layout=compact" />
 </a>
 
 <a href="https://github.com/ggsdc">
