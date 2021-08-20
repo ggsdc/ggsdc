@@ -1,7 +1,7 @@
 ### Hola, I'm Guillermo González-Santander 👋
 
 - 🔭 I’m currently working on [baobab soluciones](https://baobabsoluciones.es/) - [github](https://github.com/baobabsoluciones).
-- 🌱 I’m currently learning more Artificial Intelligence and Reinforcement Learning.
+- 🌱 I’m currently learning more about Artificial Intelligence and Reinforcement Learning.
 - 👯 I’m looking to collaborate on open source and open knowledge projects.
 
 
