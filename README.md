@@ -1,4 +1,4 @@
-### Hola, I'm Guillermo González-Santander 👋
+### Hola, I'm Guillermo González-Santander de la Cruz 👋
 
 - 🔭 I’m currently working on [baobab soluciones](https://baobabsoluciones.es/) - [github](https://github.com/baobabsoluciones).
 - 🌱 I’m currently learning more about Artificial Intelligence and Reinforcement Learning.
