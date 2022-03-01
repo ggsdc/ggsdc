@@ -6,11 +6,11 @@
 
 
 <a href="https://github.com/ggsdc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggsdc&theme=vue&hide_langs_below=1&layout=compact" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggsdc&show_icons=true&theme=vue&line_height=27&count_private=yes" alt="ggsdc's github stats"/>
 </a>
 
 <a href="https://github.com/ggsdc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ggsdc&show_icons=true&theme=vue&line_height=27&count_private=yes" alt="ggsdc's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggsdc&theme=vue&hide_langs_below=1&layout=compact" />
 </a>
 
 <a href="https://github.com/baobabsoluciones/cornflow-server">
